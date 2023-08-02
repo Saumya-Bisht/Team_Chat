@@ -13,3 +13,7 @@ Team Chat is a feature-rich ReactJS chat application that allows team members to
 ## Demo
 Check out the live demo of the Team Chat application here: [Live Demo](https://chatapp-eosin-eta.vercel.app/)
 
+## Technologies Used
+- ReactJS - A JavaScript library for building user interfaces.
+- HTML - For structuring the application.
+- CSS - For styling and layout.
